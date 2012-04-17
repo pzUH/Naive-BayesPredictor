@@ -1,0 +1,3 @@
+An implementation of Naive-Bayes predictor in ActionScript3.0 for AI bot/agent in a video games.
+
+Note: this class depend on my Basic class which holds some helper functions, but it is included here.
