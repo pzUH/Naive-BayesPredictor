@@ -1,3 +1,6 @@
-An implementation of Naive-Bayes predictor in ActionScript3.0 for AI bot/agent in a video games.
+An implementation of Naive-Bayes predictor in ActionScript3.0 for AI bot/agent in a video games. 
+Like the N-Gram, this can be used to determining what player will do in the next action, based on the previously saved data.
 
-Note: this class depend on my Basic class which holds some helper functions, but it is included here.
+Note: 
+You need to discretize your data first, before performing the prediction.
+This class depend on my Basic class which holds some helper functions, but it is included here.
